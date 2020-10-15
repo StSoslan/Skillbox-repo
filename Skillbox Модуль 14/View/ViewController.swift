@@ -26,3 +26,6 @@ class ViewController: UIViewController {
 
 }
 
+class yaprostotestoviyclasstichegosmailyk {
+    
+}
